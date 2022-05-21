@@ -17,8 +17,6 @@ int main()
 
     do
     {
-
-
         arq = fopen("pessoa2.csv", "r");
 
         if (arq == NULL)
